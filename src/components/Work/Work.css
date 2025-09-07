@@ -14,7 +14,7 @@
   .work-section-top .heading{
     color: tomato;
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 700;
   }
 
   .work-section-top {
@@ -26,8 +26,8 @@
   }
 
   .work-section-info {
-    width: 290px;
-    min-height: 350px;
+    width: 590px;
+    min-height: 150px;
     background-color: white;
     padding: 1rem 2rem;
     display: flex;
@@ -48,11 +48,12 @@
     margin: 1rem 0rem;
   }
   .work-section-bottom {
-    margin-top: 5rem;
+    margin-top: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    gap: 2rem;
   }
   .work-section-info p {
     flex: 1;
